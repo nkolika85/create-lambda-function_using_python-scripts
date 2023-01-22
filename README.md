@@ -1,2 +1,1 @@
-# python-projects
-Repository for python projects
+Write a python script for a lambda function which is invoked for s3 put events, the function creates folders with a naming covention where folder_name equals current_date, the objects are organized into folders based on put date.
